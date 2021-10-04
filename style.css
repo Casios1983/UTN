@@ -1,0 +1,20 @@
+ol{
+    list-style-type: upper-roman;
+}
+ul{
+    list-style-type: circle;
+}
+h4 {
+    color: #4f4866;
+    font-weight: normal;
+    font-size: 25px;
+    font-family: Arial;
+    text-transform: lowercase;
+  }
+  h3 {
+    color: #443963;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: Arial;
+    text-transform: lowercase;
+  }
